@@ -1,6 +1,6 @@
 ## Hi, I am Abolfazl <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 <hr>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Death%20OR%20Coding&author=Abolfazl%20Jafari%20M"></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=BANNANA&author=Abolfazl%20Jafari%20M"></p>
 
 <br>
 
